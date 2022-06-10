@@ -11,7 +11,7 @@ import static io.restassured.RestAssured.given;
 import static org.hamcrest.MatcherAssert.assertThat;
 
 @Slf4j
-public class UsersTest extends BaseTest {
+public class GetTest extends BaseTest {
 
   public Response ListUsers() {
 
